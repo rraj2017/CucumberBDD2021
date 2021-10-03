@@ -7,7 +7,7 @@ import io.cucumber.java.en.When;
 public class LoginSteps {
 	@Given("User is on Application landing page")
 	public void user_is_on_application_landing_page() {
-	    
+	   System.out.println("........user is on landing page ......."); 
 	}
 
 	@When("User clicks on Sig in button")
