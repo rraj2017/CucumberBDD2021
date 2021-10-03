@@ -35,4 +35,5 @@ public class AmazonHooks {
 //	public void refreshPage() {
 //		System.out.println("refresh the page");
 //	}
+
 }

@@ -7,7 +7,7 @@ import io.cucumber.java.en.When;
 public class OrdersSteps {
 	@Given("a registered user exists")
 	public void a_registered_user_exists() {
-	  
+	  System.out.println("...................");
 	}
 
 	@Given("user is on Amazon login page")
